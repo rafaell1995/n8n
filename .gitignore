@@ -1,0 +1,17 @@
+# Ignorar arquivos gerados pelo Docker
+
+\*.log
+docker-compose.override.yml
+docker-compose.yml
+\*.swp
+\*.bak
+.n8n\_data/
+
+# Ignorar arquivos do sistema
+
+.DS\_Store
+Thumbs.db
+
+# Ignorar arquivos de configuração local
+
+.env
