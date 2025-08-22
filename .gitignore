@@ -2,7 +2,6 @@
 
 \*.log
 docker-compose.override.yml
-docker-compose.yml
 \*.swp
 \*.bak
 .n8n\_data/
